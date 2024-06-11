@@ -42,7 +42,7 @@ pip install m3u8
 <h2 style="font-family:Verdana; color:#007acc;">Usage</h2>
 
 <ol style="font-family:Tahoma; font-size:14px;">
-  <li>Run the <code>WebsiteVideoFinder&Downloader.py</code> script.</li>
+  <li>Run the <code>Run.py</code> script.</li>
   <li>Enter the full website URL in the entry field (e.g., <code>https://www.example.com</code>).</li>
   <li>Click the "Find Videos" button to search for video streams on the webpage.</li>
   <li>Select a video from the list.</li>
